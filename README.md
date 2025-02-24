@@ -1,2 +1,2 @@
 # PolaSim
- simulator of polarization in protocell
+ simulator of polarization in a protocell
